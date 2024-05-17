@@ -173,3 +173,8 @@ Currently, two official plugins are available:
         2. Libraries needs to implement redux
             - React-Redux : Official React bindings for Redux
             - Redux Toolkit : toolset for efficient Redux development
+            -install libraries:npm install @reduxjs/toolkit react-redux
+        3.REDUX features
+            -Store:
+            -Action:
+            -Reducer:
